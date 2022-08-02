@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    font-family: cursive;
+}
+
+th *{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: x-large;
+}
+
+#table1{
+    border: 1px solid black;
+   width:1200px;
+   text-align: center;
+    height: 250px;
+    margin-left: 10%;
+}
+th{
+    font-size: large;
+}
+#table2{
+    border: 1px solid black;
+   width:1200px;
+   text-align: center;
+    height: 125px;
+    margin-left: 10%;
+}
+#table3{
+    border: 1px solid black;
+    text-align: center;
+    width:1200px;
+    margin-left: 10%;
+    height: 150px;
+}
+#table4{
+    border: 1px solid black;
+    text-align: center;
+    width:1200px;
+    margin-left: 10%;
+    height: 225px;
+}
+#table5{
+    border: 1px solid black;
+    text-align: center;
+    width:1200px;
+    margin-left: 10%;
+    height: 400px;
+}
+#EggFooYoung{
+    width: 290px;
+    height: 32px;
+}
+#FriedRice{
+    width: 290px;
+    height: 32px;
+}
+#EggRolls{
+    width: 290px;
+    height: 32px;
+    color: white;
+}
+#MadeToOrder{
+    width: 290px;
+    height: 32px;
+}
